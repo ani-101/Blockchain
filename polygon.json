@@ -1,0 +1,197 @@
+{
+    "id": "polygon",
+    "description": "Polygon is a decentralized, open-source Layer 2 scaling solution built on top of the Ethereum blockchain. MATIC is the native cryptocurrency of the platform. It is designed to address Ethereum's scalability issues by providing faster and cheaper transactions while maintaining security through its Proof-of-Stake consensus mechanism.",
+    "tags": [
+    "pos",
+    "layer2",
+    "scaling solution",
+    "ethereum",
+    "matic"
+  ],
+    "coin_details": {
+       "name": "Polygon",
+	   "symbol": "MATIC",
+	   "logo": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fcryptologos.cc%2Flogos%2Fpolygon-matic-logo.png&tbnid=yhJ7a5tfr3SEUM&vet=12ahUKEwjlsuTngaOEAxV8_zgGHQTFD3IQMygAegQIARBJ..i&imgrefurl=https%3A%2F%2Fcryptologos.cc%2Fpolygon&docid=8a3JdPOsgIRK8M&w=2000&h=2000&q=polygon%20blockchain&hl=en&ved=2ahUKEwjlsuTngaOEAxV8_zgGHQTFD3IQMygAegQIARBJ",
+	   "max_supply": "10,000,000,000" 
+    },
+    "chain_details": [
+        {
+            "name": "Language",
+            "type": "Solidity"
+        },
+        {
+            "name": "Consensus",
+            "type": "Proof of stake"
+        },
+        {
+            "name": "Chain Layer",
+            "type": "L2"
+        },
+        {
+            "name": "Chain Type",
+            "type": "EVM compatible"
+        }
+    ],
+    "official_links": {
+        "website": "https://polygon.technology/",
+        "whitepaper": "https://polygon.technology/papers/pol-whitepaper",
+        "documentation": "https://docs.polygon.technology/",
+        "forum": "https://forum.polygon.technology/",
+        "github": "https://github.com/maticnetwork"
+    },
+    "social_platforms": {
+        "discord": "https://discord.com/invite/polygonio",
+        "twitter": "https://twitter.com/0xPolygon",
+        "reddit": "https://reddit.com/r/polygonnetwork",
+        "community": "https://forum.polygon.technology/",
+        "coinmarketcap_community": "https://coinmarketcap.com/community/profile/maticnetwork/",
+        "telegram": "https://t.me/polygonofficial",
+        "twitter_hashtag": "https://twitter.com/hashtag/0xpolygon"
+    },
+    "data_aggregator": [
+        {
+            "name": "CoinMarketCap",
+            "url": "https://coinmarketcap.com/currencies/polygon/"
+        },
+        {
+            "name": "CoinGecko",
+            "url": "https://www.coingecko.com/en/coins/polygon"
+        },
+        {
+            "name": "CryptoCompare",
+            "url": "https://www.cryptocompare.com/coins/matic/overview"
+        },
+        {
+            "name": "TradingView",
+            "url": "https://www.tradingview.com/symbols/MATICUSD/"
+        },
+        {
+            "name": "CoinDesk",
+            "url": "https://www.coindesk.com/price/polygon/"
+        },
+        {
+            "name": "Investing",
+            "url": "https://www.investing.com/crypto/polygon/matic-usd"
+        },
+        {
+            "name": "MarketWatch",
+            "url": "https://www.marketwatch.com/investing/cryptocurrency/maticusd"
+        },
+        {
+            "name": "Yahoo Finance",
+            "url": "https://finance.yahoo.com/quote/MATIC-USD"
+        }
+    ],
+    "explorers": [
+        {
+            "name": "PolygonScan",
+            "url": "https://polygonscan.com/"
+        },
+        {
+            "name": "Ape.tax",
+            "url": "https://ape.tax/"
+        },
+        {
+            "name": "Etherscan",
+            "url": "https://polygonscan.com/"
+        }
+    ],
+    "bridges": [
+        {
+            "name": "Wormhole",
+            "url": "https://wormhole.com/"
+        },
+        {
+            "name": "Stargate",
+            "url": "https://stargate.finance/"
+        },
+        {
+            "name": "Polygon PoS Bridge",
+            "url": "https://wallet.polygon.technology/bridge"
+        },
+        {
+            "name": "RenBridge",
+            "url": "https://polygon.technology/blog/bridge-your-assets-through-renbridge-on-polygon"
+        },
+        {
+            "name": "Multichain",
+            "url": "https://multichain.xyz/"
+        },
+    ],
+    "bounty": [
+        {
+            "name": "Polygon Bug Bounty Program",
+            "url": "https://polygon.technology/blog/bug-bounty-for-polygon-zkevm"
+        }
+    ],
+    "grants": [
+        {
+            "name": "Polygon Village",
+            "url": "https://polygon.technology/village/grants"
+        }
+    ],
+    "faucets": [
+        {
+            "name": "Matic Supply",
+            "url": "https://matic.supply/"
+        },
+        {
+            "name": "Polygon Faucet",
+            "url": "https://faucet.polygon.technology/"
+        },
+        {
+            "name": "Paradigm Faucet",
+            "url": "https://faucet.paradigm.xyz/"
+        },
+        {
+            "name": "Mumbai Faucet",
+            "url": "https://www.alchemy.com/dapps/mumbai-faucet"
+        }
+    ],
+    "rpcs": [
+        {
+            "name": "Polygon PoS Mainnet",
+            "url": "https://polygon-rpc.com/"
+        }
+    ],
+    "wallets": [
+        {
+            "name": "WalletConnect",
+            "url": "https://walletconnect.org/"
+        },
+        {
+            "name": "Metamask",
+            "url": "https://metamask.io/"
+        },
+        {
+            "name": "Coinbase Wallet",
+            "url": "https://wallet.coinbase.com/"
+        },
+        {
+            "name": "MathWallet",
+            "url": "https://mathwallet.org/"
+        },
+    ],
+    "oracles": [
+        {
+            "name": "Chainlink",
+            "url": "https://chain.link/"
+        },
+        {
+            "name": "Band Protocol",
+            "url": "https://bandprotocol.com/"
+        },
+        {
+            "name": "API3",
+            "url": "https://api3.org/"
+        },
+        {
+            "name": "DIA",
+            "url": "https://diadata.org/"
+        },
+        {
+            "name": "The Graph",
+            "url": "https://thegraph.com/"
+        },
+        ]
+}
